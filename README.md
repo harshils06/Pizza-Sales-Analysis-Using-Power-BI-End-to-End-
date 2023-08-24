@@ -2,13 +2,13 @@
 # **Pizza Sales Analysis Project**
 Welcome to the Pizza Sales Analysis project! This repository hosts an in-depth exploration of pizza sales data, employing the powerful synergy of POWER BI and SQL. Through SQL, we've imported and managed the data from SQL Server, and with the magic of DAX (Data Analysis Expressions), we've transformed this raw data into actionable insights. The final touch comes with interactive dashboards created using POWER BI, making data visualization and exploration an engaging experience.
 
-**Table of Contents
-Introduction
-Key Features
-How to Use
-Contributing
-License**
-**Introduction**
+## **Table of Contents**
+### **Introduction**
+### **Key Features**
+### **How to Use**
+### **Contributing**
+### **License**
+### **Introduction**
 Pizza is not just a favorite food; it's a window into consumer preferences, trends, and behaviors. This project takes a deep dive into the world of pizza sales, offering a comprehensive analysis that benefits data enthusiasts, business owners, and anyone interested in understanding the dynamics of pizza consumption.
 
 **Key Features**
